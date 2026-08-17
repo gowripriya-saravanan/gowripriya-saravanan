@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Gowripriya Saravanan**, an Engineering student passionate about technology, programming, and software development.
+Hi! I'm **Gowripriya S**, an Engineering student passionate about technology, programming, and software development.
 
 * 🎓 Engineering Student
 * 💻 Aspiring Software Developer
@@ -40,7 +40,7 @@ Hi! I'm **Gowripriya Saravanan**, an Engineering student passionate about techno
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
 </div>
 
