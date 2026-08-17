@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Gowripriya Saravanan
+# 👋 Hi, I'm Gowripriya S
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
 
@@ -31,8 +31,6 @@ Hi! I'm **Gowripriya Saravanan**, an Engineering student passionate about techno
 * 🧠 Practicing **Data Structures & Problem Solving**
 * 🌱 Currently learning **C++, Python, Web Development & SQL**
 * 🚀 Enjoy building projects and learning through hands-on experience
-* ✨ Curious about new technologies and real-world applications
-* 🌱 Growing from a student into a confident developer
 
 ---
 
@@ -97,21 +95,6 @@ Hi! I'm **Gowripriya Saravanan**, an Engineering student passionate about techno
 
 ## 🚀 Featured Projects
 
-### 🌱 Climate-Risk-Aware Farm Decision System
-
-A smart technology solution designed to help smallholder farmers make better decisions using **climate information, market insights, and decision-support features**.
-
-**Key Areas**
-
-* 🌦️ Climate-risk awareness
-* 🌾 Agricultural decision support
-* 📊 Data-driven insights
-* 🗣️ Voice-enabled interaction
-* 💡 Smart market decision support
-
-**Technologies:** Python • Web Development • Data • AI/ML
-
----
 
 ### 🎵 Music Player Web Interface
 
@@ -142,68 +125,10 @@ A collection of programming solutions developed while strengthening programming 
 |   🌐 Development   | HTML • CSS • JavaScript                    |
 |    🗄️ Database    | SQL                                        |
 |        🤖 AI       | Artificial Intelligence & Machine Learning |
-|     🚀 Projects    | Real-world applications                    |
-|      🔧 Tools      | Git & GitHub                               |
-
 </div>
 
 ---
 
-## 📚 Learning Journey
-
-<div align="center">
-
-**Programming Fundamentals**
-⬇️
-**C / C++**
-⬇️
-**Python**
-⬇️
-**Data Structures & Algorithms**
-⬇️
-**Web Development**
-⬇️
-**SQL & Databases**
-⬇️
-**AI / Machine Learning**
-⬇️
-**Real-World Projects 🚀**
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gowripriya-saravanan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowripriya-saravanan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gowripriya-saravanan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gowripriya-saravanan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
 
 ## 🎯 Goals
 
