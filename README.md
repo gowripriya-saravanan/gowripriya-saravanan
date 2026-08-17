@@ -86,7 +86,6 @@ Hi! I'm **Gowripriya S**, an Engineering student passionate about technology, pr
 
 <img src="https://img.shields.io/badge/Data%20Structures-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 
 </div>
