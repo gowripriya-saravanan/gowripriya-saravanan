@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Gowripriya S
+# 👋 Hi, I'm Gowri Priya S
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;C%2B%2B+%7C+Python+%7C+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80;Turning+Ideas+Into+Real+Projects+%E2%9C%A8" alt="Typing SVG" />
 
